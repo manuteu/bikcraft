@@ -9,9 +9,9 @@ p {
   line-height: 20px;
 }
 
-/* img {
-  display: block;
-} */
+img {
+  max-width: 100%;
+}
 
 .btn {
   border: 4px solid #fec63e;
@@ -160,7 +160,7 @@ p {
 
 .introducao-interna {
   width: 100%;
-  margin-top: 96px;
+  margin-top: 0px;
   height: 160px;
   text-align: center;
   color: #fff;
